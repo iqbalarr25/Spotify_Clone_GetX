@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Clone Spotify
-with form button kedap kedip heuheu
-=======
 # Spotify_Clone_GetX
 Still need a lot work to do to clean my code
 
@@ -10,4 +6,3 @@ Still need a lot work to do to clean my code
 <image src="https://user-images.githubusercontent.com/71244612/151661976-c924a66d-543a-4c34-8881-c4622221a6a8.png" width=33%>
 <image src="https://user-images.githubusercontent.com/71244612/151661979-43215787-17dd-4b5c-bd9a-469c5bee33be.png" width=33%>
 </div>
->>>>>>> f87a88df748df40977eab3d5fc8776a03fe74005
